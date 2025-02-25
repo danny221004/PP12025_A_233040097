@@ -1,4 +1,4 @@
-package Pertemuan3;
+package pertemuan3;
 
 public class ListTest {
 
